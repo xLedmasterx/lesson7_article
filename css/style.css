@@ -29,44 +29,48 @@
 		url("../img/girls/Alena.png") 15% 1%/90px 90px no-repeat,
 		url("../img/girls/Anna_L.png") 23% 10%/90px 90px no-repeat,
 		url("../img/girls/Anna_Petrovska.png") 76% 0/90px 90px no-repeat,
-		url("../img/girls/Anna_Yasenovich.png") 65% 18%/90px 90px no-repeat,
-		url("../img/girls/Anna_Fedorova.png") center 20%/90px 90px no-repeat,
+		url("../img/girls/Anna_Yasenovich.png") 65% 2%/90px 90px no-repeat,
+		url("../img/girls/Anna_Fedorova.png") center 1%/90px 90px no-repeat,
 		url("../img/girls/AnnLynov.png") 80% 30%/90px 90px no-repeat,
 		url("../img/girls/Asel.Abdykalykova.png") 85% 14%/90px 90px no-repeat,
-		url("../img/girls/Dasha.png") 2% 35% / 90px 90px no-repeat,
-		url("../img/girls/Dasha_2.png") 35% 18% / 90px 90px no-repeat,
+		url("../img/girls/Dasha.png") 2% 21% / 90px 90px no-repeat,
+		url("../img/girls/Dasha_2.png") 27% 22% / 90px 90px no-repeat,
 		url("../img/girls/Feruza.png") 100% 0 / 90px 90px no-repeat,
 		url("../img/girls/forg.png") 90% 27% / 90px 90px no-repeat,
-		url("../img/girls/gakhova_vv.png") 10% 44% / 90px 90px no-repeat,
+		url("../img/girls/gakhova_vv.png") 10% 52% / 90px 90px no-repeat,
 		url("../img/girls/Galina.png") 0 center / 90px 90px no-repeat,
-		url("../img/girls/Girl.png") 18% 35% / 90px 90px no-repeat,
+		url("../img/girls/Girl.png") 15% 21% / 90px 90px no-repeat,
 		url("../img/girls/Gvozdeva.png") 21% 48% / 90px 90px no-repeat,
 		url("../img/girls/Irina.png") 30% 50%/ 90px 90px no-repeat,
 		url("../img/girls/Iryna_Chorna.png") 90% 2%/90px 90px no-repeat,
 		url("../img/girls/Kate_Sprinchan.png") 95% 13%/90px 90px no-repeat,
-		url("../img/girls/Katerina.png") 75% 18%/90px 90px no-repeat,
+		url("../img/girls/Katerina.png") 70% 18%/90px 90px no-repeat,
 		url("../img/girls/Katerinka.png") right 30%/90px 90px no-repeat,
-		url("../img/girls/Katrin.png") 85% 95%/90px 90px no-repeat,
+		url("../img/girls/Katrin.png") 85% 100%/90px 90px no-repeat,
 		url("../img/girls/KatyushkaKi.png") 32% 0/90px 90px no-repeat,
 		url("../img/girls/Kazakova_Galina.png") left 80% /90px 90px no-repeat,
 		url("../img/girls/Ksenia.png") 10% 81%/90px 90px no-repeat,
-		url("../img/girls/KTL19.png") right 93%/90px 90px no-repeat,
+		url("../img/girls/KTL19.png") right 96%/90px 90px no-repeat,
 		url("../img/girls/Marina.png") 30% 80%/90px 90px no-repeat,
 		url("../img/girls/Nika_Tkachenko.png") 20% 86%/90px 90px no-repeat,
-		url("../img/girls/niku.png") 34% 68%/90px 90px no-repeat,
+		url("../img/girls/niku.png") 28% 66%/90px 90px no-repeat,
 		url("../img/girls/Ninelia.png") center 90%/90px 90px no-repeat,
-		url("../img/girls/Oksana_Yalanska.png") 65% 95%/90px 90px no-repeat,
-		url("../img/girls/Oksik.png") 35% 95%/90px 90px no-repeat,
+		url("../img/girls/Oksana_Yalanska.png") 62% 95%/90px 90px no-repeat,
+		url("../img/girls/Oksik.png") 33% 95%/90px 90px no-repeat,
 		url("../img/girls/sanafta.png") 50% 70%/90px 90px no-repeat,
 		url("../img/girls/SemVit.png") 41% 80% /90px 90px no-repeat,
 		url("../img/girls/Tania_Front-Begin.png") 60% 65%/90px 90px no-repeat,
 		url("../img/girls/Valentina.png") 60% 80%/90px 90px no-repeat,
-		url("../img/girls/valeria_c.png") 68% 59%/90px 90px no-repeat,
+		url("../img/girls/valeria_c.png") 73% 42%/90px 90px no-repeat,
 		url("../img/girls/Verb_ep06.png") 75% 69%/90px 90px no-repeat,
 		url("../img/girls/VetaLiza.png") 85% 69%/90px 90px no-repeat,
-		url("../img/girls/WhiteFox.png") 90% 58%/90px 90px no-repeat,
+		url("../img/girls/WhiteFox.png") 90% 41%/90px 90px no-repeat,
 		url("../img/girls/yaroslava.png") right 66%/90px 90px no-repeat;
 }
+.content__text {
+	padding: 100px 0 0 0;
+}
+
 .content__text ul {
 	line-height: 26px;
 	font-size: 20px;
@@ -74,15 +78,16 @@
 }
 .text-1 {
 	width: 450px;
-	margin: 0 0 60px 500px;
+	margin: 0 auto;
+	margin-bottom: 50px;
 }
 .text-2 {
 	width: 400px;
-	margin: 0 0 60px 0;
+	margin: 0 0 50px 0;
 }
 .text-3 {
-	width: 440px;
-	margin: 0 0 50px 900px;
+	width: 470px;
+	margin: 0 0 0 auto;
 }
 .text-4 {
 	width: 400px;
@@ -90,7 +95,7 @@
 }
 .text-5 {
 	width: 450px;
-	margin: 0 0 30px 880px;
+	margin: 0 0 0 auto;
 }
 .text-6 {
 	width: 400px;
